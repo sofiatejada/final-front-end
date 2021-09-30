@@ -15,7 +15,7 @@ export default function FavesList() {
   const fetchBackendData = async () => {
     const res = await fetch(`${backendURL}`);
     const data = await res.json();
-    console.log(data);
+
     return data;
   };
 
@@ -44,7 +44,8 @@ export default function FavesList() {
       <ul aria-label="fave-list" role="list">
         {backendList.map((character) => (
           <li key={character.id}>
-            <Fave name={character.name} image={character.image} />
+            <Fave 
+              id={character.id} name={character.name} image={character.image} />
           </li>
         ))}
       </ul>

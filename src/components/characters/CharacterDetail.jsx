@@ -30,6 +30,7 @@ export default function CharacterDetail() {
   const handleSubmit = (event) => {
     event.preventDefault();
     saveCharacter(character);
+    // .then(window.location = '/personal/faves');
   };
 
   return (
