@@ -17,15 +17,27 @@ export default function CharacterList() {
   }
  
   return (
-    <ul aria-label="character-list" role="list">
-      {characterList.map((character) => (
-        <li key={character.id}>
-          <Link key={character.id} to={`${character.id}`}>
-            <Character 
-              id={character.id} name={character.name} image={character.image} />
-          </Link>
-        </li>
-      ))}
-    </ul>
+    <>
+      <header>
+        <Link to="/">
+          Homepage
+        </Link>
+        <Link to="/personal/faves">
+          Favorites
+        </Link>
+      </header>
+      <ul aria-label="character-list" role="list">
+        {characterList.map((character) => (
+          <li key={character.id}>
+            <Link key={character.id} to={`/character/${character.id}`}>
+              <Character 
+                id={character.id} 
+                name={character.name} 
+                image={character.image} />
+            </Link>
+          </li>
+        ))}
+      </ul>
+    </>
   );
 }

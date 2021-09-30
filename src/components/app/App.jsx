@@ -10,8 +10,8 @@ export default function App() {
       <div>
         <Switch>
           <Route exact path="/" component={CharacterList} />
-          <Route exact path="/:id" component={CharacterDetail} />
-          <Route exact path="/faves" component={FavesList} />
+          <Route exact path="/character/:id" component={CharacterDetail} />
+          <Route exact path="/personal/faves" component={FavesList} />
         </Switch>
       </div>
     </BrowserRouter>
