@@ -89,13 +89,13 @@ export default function FavesDetail() {
         </Link>
       </header>
       <figure>
-        <img src={character.image} alt={`image of ${character.name}`} />
+        <img src={character.image} alt={`fave image of ${character.name}`} />
         <figcaption>
           {character.name}
         </figcaption>
       </figure>
       <form onSubmit={handleDeleteSubmit}>
-        <button>Remove from Faves</button>
+        <button aria-label='remove-butt'>Remove from Faves</button>
       </form>
       <form onSubmit={handlePutSubmit}>
         <input onChange={handleNameChange} type="text" placeholder="name" />

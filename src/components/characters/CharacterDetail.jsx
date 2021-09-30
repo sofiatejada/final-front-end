@@ -50,7 +50,7 @@ export default function CharacterDetail() {
         </figcaption>
       </figure>
       <form onSubmit={handleSubmit}>
-        <button type="submit">Add to Faves</button>
+        <button aria-label="add-butt" type="submit">Add to Faves</button>
       </form>
     </main>
   );

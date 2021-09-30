@@ -1,0 +1,369 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`character component displays a character 1`] = `
+<img
+  alt="image of poop"
+  src="example.png"
+/>
+`;
+
+exports[`character list component displays a list of characters 1`] = `
+<ul
+  aria-label="character-list"
+  role="list"
+>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f5c"
+    >
+      <figure>
+        <img
+          alt="image of Nancy"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/6/62/Nancy.jpg/revision/latest/scale-to-width-down/310?cb=20110423055923"
+        />
+        <figcaption>
+          Nancy
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f59"
+    >
+      <figure>
+        <img
+          alt="image of Grandpa's grandfather"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/f/f7/Grandpa%27s_grandfather.png/revision/latest/scale-to-width-down/310?cb=20190228081015"
+        />
+        <figcaption>
+          Grandpa's grandfather
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f52"
+    >
+      <figure>
+        <img
+          alt="image of Grandpa Phil"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/7/79/GrandpaPhil.png/revision/latest/scale-to-width-down/300?cb=20160924030436"
+        />
+        <figcaption>
+          Grandpa Phil
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f58"
+    >
+      <figure>
+        <img
+          alt="image of Grandpa's father"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/e/e0/Grandpa%27s_father.png/revision/latest/scale-to-width-down/310?cb=20190228081112"
+        />
+        <figcaption>
+          Grandpa's father
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f70"
+    >
+      <figure>
+        <img
+          alt="image of Phoebe Heyerdahl"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/9/93/Phoebe_%28classic%29.png/revision/latest/scale-to-width-down/247?cb=20190816022206"
+        />
+        <figcaption>
+          Phoebe Heyerdahl
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f7e"
+    >
+      <figure>
+        <img
+          alt="image of Eugene Horowitz"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/9/99/EAFDB121-EC13-4F12-849E-37037A95E3D6.png/revision/latest/scale-to-width-down/270?cb=20190816022130"
+        />
+        <figcaption>
+          Eugene Horowitz
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f82"
+    >
+      <figure>
+        <img
+          alt="image of Ray"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/3/34/Ray.png/revision/latest/scale-to-width-down/310?cb=20181006091830"
+        />
+        <figcaption>
+          Ray
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f8b"
+    >
+      <figure>
+        <img
+          alt="image of Shelley"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/c/cb/Shelley.jpg/revision/latest/scale-to-width-down/310?cb=20120527025256"
+        />
+        <figcaption>
+          Shelley
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f76"
+    >
+      <figure>
+        <img
+          alt="image of Lila Sawyer"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/b/b0/Lila_Sawyer.png/revision/latest/scale-to-width-down/310?cb=20171212053404"
+        />
+        <figcaption>
+          Lila Sawyer
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f7c"
+    >
+      <figure>
+        <img
+          alt="image of Uncle Stinky"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/8/89/Uncle_Stinky.jpg/revision/latest/scale-to-width-down/310?cb=20120924204406"
+        />
+        <figcaption>
+          Uncle Stinky
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f55"
+    >
+      <figure>
+        <img
+          alt="image of Arnie"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/4/42/Arnie.jpg/revision/latest/scale-to-width-down/310?cb=20110109195825"
+        />
+        <figcaption>
+          Arnie
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f66"
+    >
+      <figure>
+        <img
+          alt="image of Olga Pataki"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/5/5e/Olga_Pataki.png/revision/latest/scale-to-width-down/310?cb=20180124053913"
+        />
+        <figcaption>
+          Olga Pataki
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f6b"
+    >
+      <figure>
+        <img
+          alt="image of Timberly Johanssen"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/e/e8/Timberly.png/revision/latest/scale-to-width-down/310?cb=20171210045406"
+        />
+        <figcaption>
+          Timberly Johanssen
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f6d"
+    >
+      <figure>
+        <img
+          alt="image of Jerry Berman"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/2/2f/Jerry_Berman.png/revision/latest/scale-to-width-down/310?cb=20171219061306"
+        />
+        <figcaption>
+          Jerry Berman
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f73"
+    >
+      <figure>
+        <img
+          alt="image of Rhonda Wellington Lloyd"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/b/b4/C1BBB448-FE38-4F7B-98FA-2137F277F9C5.png/revision/latest/scale-to-width-down/213?cb=20190816022649"
+        />
+        <figcaption>
+          Rhonda Wellington Lloyd
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f78"
+    >
+      <figure>
+        <img
+          alt="image of Stinky Peterson"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/2/24/Stinky_Peterson.png/revision/latest/scale-to-width-down/310?cb=20160516072820"
+        />
+        <figcaption>
+          Stinky Peterson
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f71"
+    >
+      <figure>
+        <img
+          alt="image of Kyo Heyerdahl"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/c/cf/Kyo_Heyerdahl.png/revision/latest/scale-to-width-down/310?cb=20190310221807"
+        />
+        <figcaption>
+          Kyo Heyerdahl
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f8e"
+    >
+      <figure>
+        <img
+          alt="image of Iggy"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/0/0e/Iggy.png/revision/latest/scale-to-width-down/310?cb=20190210045957"
+        />
+        <figcaption>
+          Iggy
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f77"
+    >
+      <figure>
+        <img
+          alt="image of Mr. Sawyer"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/4/45/Mr._Sawyer.png/revision/latest/scale-to-width-down/310?cb=20171219055204"
+        />
+        <figcaption>
+          Mr. Sawyer
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/character/5da237699734fdcb7bef8f84"
+    >
+      <figure>
+        <img
+          alt="image of Thaddeus \\"Curly\\" Gammelthorpe"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/b/ba/Classic_Curly_promo.png/revision/latest/scale-to-width-down/246?cb=20181010011614"
+        />
+        <figcaption>
+          Thaddeus "Curly" Gammelthorpe
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+</ul>
+`;
+
+exports[`faves list displays list of faves 1`] = `
+<ul
+  aria-label="fave-list"
+  role="list"
+>
+  <li>
+    <a
+      href="/personal/faves/8"
+    >
+      <figure>
+        <img
+          alt="fave image of Nancy"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/6/62/Nancy.jpg/revision/latest/scale-to-width-down/310?cb=20110423055923"
+        />
+        <figcaption>
+          Nancy
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/personal/faves/9"
+    >
+      <figure>
+        <img
+          alt="fave image of Phoebe Heyerdahl"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/9/93/Phoebe_%28classic%29.png/revision/latest/scale-to-width-down/247?cb=20190816022206"
+        />
+        <figcaption>
+          Phoebe Heyerdahl
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/personal/faves/10"
+    >
+      <figure>
+        <img
+          alt="fave image of Timberly Johanssen"
+          src="https://vignette.wikia.nocookie.net/heyarnold/images/e/e8/Timberly.png/revision/latest/scale-to-width-down/310?cb=20171210045406"
+        />
+        <figcaption>
+          Timberly Johanssen
+        </figcaption>
+      </figure>
+    </a>
+  </li>
+</ul>
+`;

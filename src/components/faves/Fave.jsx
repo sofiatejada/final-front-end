@@ -7,7 +7,7 @@ export default function Fave({ id, name, image }) {
   return (
     <>
       <figure key={id}>
-        <img src={image} alt={`image of ${name}`} />
+        <img src={image} alt={`fave image of ${name}`} />
         <figcaption>
           {name}
         </figcaption>
