@@ -44,8 +44,10 @@ export default function FavesList() {
       <ul aria-label="fave-list" role="list">
         {backendList.map((character) => (
           <li key={character.id}>
-            <Fave 
-              id={character.id} name={character.name} image={character.image} />
+            <Link key={character.id} to={`/personal/faves/${character.id}`}>
+              <Fave 
+                id={character.id} name={character.name} image={character.image} />
+            </Link>
           </li>
         ))}
       </ul>
